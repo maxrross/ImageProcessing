@@ -1,0 +1,3 @@
+/Users/maxross/Desktop/ImageProcessing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/maxross/Desktop/ImageProcessing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maxross/Desktop/ImageProcessing/cmake-build-debug/CMakeFiles/ImageProcessing.dir
