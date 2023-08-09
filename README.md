@@ -1,1 +1,2 @@
 # ImageProcessing
+Created an image processing application using C++ for manipulating images based on TGA files using binary file I/O. The program features eight different Photoshop-inspired blending modes such as multiply, subtract, screen, and overlay, etc. To achieve this, functions were written to read the data from binary files, process the data using these blending algorithms, and write the result into a new binary file. Additional utilities include features for splitting and rotating files, comparing files, and compacting multiple images into one.
